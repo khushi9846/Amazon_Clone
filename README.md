@@ -5,3 +5,7 @@ This is how the detailed view of product will be there
 
 Can save the products by just adding them to Cart
 Checkout whenever wants to purchase the order 
+The cart will look like 
+
+![image](https://user-images.githubusercontent.com/85622002/201691072-89c0b4a6-de4d-4f40-9f2d-c89eb63e8792.png)
+ Adding the products would require 
