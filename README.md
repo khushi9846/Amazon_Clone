@@ -13,3 +13,7 @@ The cart will look like
  The screen is user friendly and colorfull so to attract the user and make the user expireince better
  ![image](https://user-images.githubusercontent.com/85622002/201691661-d51dbd34-e138-4cc9-948c-ed06819f2032.png)
 
+
+
+
+And the payment method would be razorpay , I have used the test mode but the real time mode can be implemented as well
